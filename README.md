@@ -2,7 +2,7 @@
 
 Projeto da disciplina **Mineração de Dados**: agrupamento (K-Means) e regras de associação (Apriori) com os microdados da **Pesquisa Nacional de Saúde do Escolar (PeNSE) 2024**, do IBGE.
 
-**Autores:** Eduardo e Hugo
+Autores: Eduardo Aparecido Viegas e Hugo Fernandes Polezel
 
 ## Pergunta do projeto
 O tempo que o escolar passa sentado por dia (que inclui TV, videogame, computador, celular e tablet, e por isso serve de aproximação para o tempo de tela) está associado a mais indicadores de sofrimento psicológico?
